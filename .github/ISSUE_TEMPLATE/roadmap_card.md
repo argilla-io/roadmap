@@ -29,5 +29,4 @@ _Add any additional information or details needed to understand the feature:_
 
 ```[tasklist]
 ### Related issues
-- [ ] Link related issues
 ```
