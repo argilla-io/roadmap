@@ -1,3 +1,12 @@
+---
+name: "Roadmap card"
+about: "Add a card to the public roadmap repo"
+title:
+labels:
+assignees: 
+
+---
+
 ### Summary
 _Summarize the functionality or added value of the feature:_
 
